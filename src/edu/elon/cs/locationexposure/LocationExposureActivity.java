@@ -17,7 +17,7 @@ public class LocationExposureActivity extends Activity {
 	private RelativeLayout relativeLayout; 
 	private LocationManager locManager; 
 	
-	private int[] colors = {Color.RED, Color.GREEN}; 
+	private int[] colors = {Color.RED, Color.BLUE}; 
 	
 	//which color/section of array, showing
 	private int which; 
